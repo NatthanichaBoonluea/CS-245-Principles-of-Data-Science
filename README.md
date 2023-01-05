@@ -1,4 +1,4 @@
-# CS-245-Principles-of-Data-Science
+# CS 245 Principles of Data Science
 ## คพ.245 หลักการวิทยาการข้อมูล
 **คำอธิบายรายวิชา:**
 หลักการพื้นฐานของวิทยาการข้อมูลที่เกี่ยวข้องกับอัลกอริทีม กระบวนการ วิธีการและหลักการคิด รวมทั้งเครื่องมือที่ใช้ใน
@@ -62,3 +62,9 @@ https://colab.research.google.com/drive/1gW6lV0NhPO4pRuAox3zdYUZi9VZPt6bQ?usp=sh
 https://colab.research.google.com/drive/177ajByHpvsUu_RjtmLXleY_22UlBKCyk?usp=sharing
 5. Assignment#05: Exploratory Data Analysis (Part II)
 https://colab.research.google.com/drive/1Bg1E_jax94YwX3lh7SabBeP2nqKWIQLE?usp=sharing
+
+## Term Project
+[รายงาน โครงงานวิชา cs245 กลุ่ม008 - Google เอกสาร.pdf](https://github.com/NatthanichaBoonluea/CS-245-Principles-of-Data-Science/files/10353307/cs245.008.-.Google.pdf)
+ * link URL to report : https://docs.google.com/document/d/1AHDII9M41P4TATQ_AvXWIPlkjrov1dClHzaGlKUmuZQ/edit?usp=sharing
+ * link URL to data set : https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data
+ * link URL to notebook (Methodology) : https://colab.research.google.com/drive/1nxh75A4SBlWKXqTJ2h5qk7hq-VfU1ILH?usp=sharing
